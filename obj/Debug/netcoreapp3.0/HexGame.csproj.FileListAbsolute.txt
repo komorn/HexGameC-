@@ -1,0 +1,17 @@
+C:\Users\natyk\source\repos\HexGame\HexGame\bin\Debug\netcoreapp3.0\HexGame.exe
+C:\Users\natyk\source\repos\HexGame\HexGame\bin\Debug\netcoreapp3.0\HexGame.deps.json
+C:\Users\natyk\source\repos\HexGame\HexGame\bin\Debug\netcoreapp3.0\HexGame.runtimeconfig.json
+C:\Users\natyk\source\repos\HexGame\HexGame\bin\Debug\netcoreapp3.0\HexGame.runtimeconfig.dev.json
+C:\Users\natyk\source\repos\HexGame\HexGame\bin\Debug\netcoreapp3.0\HexGame.dll
+C:\Users\natyk\source\repos\HexGame\HexGame\bin\Debug\netcoreapp3.0\HexGame.pdb
+C:\Users\natyk\source\repos\HexGame\HexGame\obj\Debug\netcoreapp3.0\HexGame.Form1.resources
+C:\Users\natyk\source\repos\HexGame\HexGame\obj\Debug\netcoreapp3.0\HexGame.HexagonalButton.resources
+C:\Users\natyk\source\repos\HexGame\HexGame\obj\Debug\netcoreapp3.0\HexGame.Properties.Resources.resources
+C:\Users\natyk\source\repos\HexGame\HexGame\obj\Debug\netcoreapp3.0\HexGame.csproj.GenerateResource.cache
+C:\Users\natyk\source\repos\HexGame\HexGame\obj\Debug\netcoreapp3.0\HexGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natyk\source\repos\HexGame\HexGame\obj\Debug\netcoreapp3.0\HexGame.AssemblyInfoInputs.cache
+C:\Users\natyk\source\repos\HexGame\HexGame\obj\Debug\netcoreapp3.0\HexGame.AssemblyInfo.cs
+C:\Users\natyk\source\repos\HexGame\HexGame\obj\Debug\netcoreapp3.0\HexGame.csproj.CoreCompileInputs.cache
+C:\Users\natyk\source\repos\HexGame\HexGame\obj\Debug\netcoreapp3.0\HexGame.dll
+C:\Users\natyk\source\repos\HexGame\HexGame\obj\Debug\netcoreapp3.0\HexGame.pdb
+C:\Users\natyk\source\repos\HexGame\HexGame\obj\Debug\netcoreapp3.0\HexGame.genruntimeconfig.cache
