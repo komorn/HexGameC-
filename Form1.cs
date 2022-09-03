@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -1073,6 +1073,11 @@ namespace HexGame
         {
             // function to remove the last move of the PC
 
+            if (lastU == null || lastPC == null)
+            {
+                return;
+            }
+            
             int rowU = lastU.Item1;     
             int colU = lastU.Item2;
 
